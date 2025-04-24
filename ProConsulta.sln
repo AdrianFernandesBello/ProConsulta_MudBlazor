@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProConsulta", "ProConsulta\ProConsulta.csproj", "{496D0931-A283-4686-824E-80134E2FE191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496D0931-A283-4686-824E-80134E2FE191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496D0931-A283-4686-824E-80134E2FE191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496D0931-A283-4686-824E-80134E2FE191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496D0931-A283-4686-824E-80134E2FE191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC8510A-6280-4EE9-A0F6-731C278DF39C}
+	EndGlobalSection
+EndGlobal
